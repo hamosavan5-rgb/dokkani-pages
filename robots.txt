@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hamosavan5-rgb.github.io/dokkani-pages/sitemap.xml
